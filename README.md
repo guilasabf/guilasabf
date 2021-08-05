@@ -9,19 +9,19 @@
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
-- 🤔 & nbsp; Explorando novas tecnologias e desenvolvendo soluções de software e hacks rápidos.
-- 💼 & nbsp; Atuando como Engenheiro de TI no banco Itáu.
-- 🌱 & nbsp; Aprender mais sobre arquitetura em nuvem, IaC, PaaS, SaaS e observabilidade.
+- 🤔  Explorando novas tecnologias e desenvolvendo soluções de software e hacks rápidos.
+- 💼  Atuando como Engenheiro de TI no banco Itáu.
+- 🌱  Aprender mais sobre arquitetura em nuvem, IaC, PaaS, SaaS e observabilidade.
 
 <h3> 🛠 Pilha de tecnologia </h3>
 
-- 💻 & nbsp; Linux | Kubernetes | Openshift | Docker | Git | Python |
-- 💻 & nbsp; ShellScript | PowerShell | Zabbix | AppDynamics | Dynatrace
-- 💻 & nbsp; Splunk | ElasticStack | Prometheus | Grafana | Nuvem
+- 💻  Linux | Kubernetes | Openshift | Docker | Git | Python |
+- 💻  ShellScript | PowerShell | Zabbix | AppDynamics | Dynatrace
+- 💻  Splunk | ElasticStack | Prometheus | Grafana | Nuvem
 
 <br/>
 
-[! [GitHub Stats] (https://github-readme-stats.vercel.app/api?username=leandro-matos&show_icons=true)] (https://github.com/leandro-matos)
+[! [GitHub Stats] (https://github-readme-stats.vercel.app/api?username=leandro-matos&show_icons=true)] (https://github.com/guilasabf)
 
 <h3> 🤝🏻 Conecte-se comigo </h3>
 
