@@ -21,7 +21,7 @@
 
 <br/>
 
-[! [GitHub Stats] (https://github-readme-stats.vercel.app/api?username=leandro-matos&show_icons=true)] (https://github.com/guilasabf)
+[! [GitHub Stats] (https://github-readme-stats.vercel.app/api?username=guilasabf&show_icons=true)] (https://github.com/guilasabf)
 
 <h3> 🤝🏻 Conecte-se comigo </h3>
 
