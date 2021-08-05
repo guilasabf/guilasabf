@@ -4,6 +4,21 @@
 - 💞️ Estou procurando colaborar em Automatizações e Pipeline
 - 📫 Como chegar até mim guigobrito@hotmail.com / guigobrito94@gmail.com
 
+  ##
+
+<div>
+  <a href="https://github.com/guilasabf">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilasabf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilasabf&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
+  
+  ##
+ 
 
 <h2> Sou Guilherme Ferreira. </h2>
 
@@ -21,11 +36,10 @@
 
 <br/>
 
-[! [GitHub Stats] (https://github-readme-stats.vercel.app/api?username=guilasabf&show_icons=true)] (https://github.com/guilasabf)
 
 <h3> 🤝🏻 Conecte-se comigo </h3>
 
-<p align = "center">
-<a href="https://www.linkedin.com/in/guilherme-b-337837146/"> <img alt = "LinkedIn" src = "https://img.shields.io/badge/LinkedIn-Leandro % 20Matos% 20Pereira-blue? Style = flat-square & logo = linkedin "> </a>
-<a href="mailto:guigobrito94@gmail.com"> <img alt = "Email" src = "https://img.shields.io/badge/Email-leandromatpereira@hotmail.com-blue?style=flat- square & logo = gmail "> </a>
-</p>
+  
+<div> 
+  <a href = "mailto:guigobrito94@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-b-337837146/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
