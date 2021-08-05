@@ -1,14 +1,8 @@
 - 👋 Olá, sou @guilasabf
-- 👀 Estou interessado em ...
-- 🌱 Atualmente estou aprendendo ...
-- 💞️ Estou procurando colaborar em ...
-- 📫 Como chegar até mim ...
-
-<! ---
-guilasabf / guilasabf é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
-Você pode clicar no link Visualizar para ver suas alterações.
---->
-
+- 👀 Estou interessado em aprender tecnologias DevOps
+- 🌱 Atualmente estou aprendendo Postman,AWS,kafka,Ansible e Terraform
+- 💞️ Estou procurando colaborar em Automatizações e Pipeline
+- 📫 Como chegar até mim guigobrito@hotmail.com / guigobrito94@gmail.com
 
 
 <h2> Sou Guilherme Ferreira. </h2>
@@ -22,7 +16,7 @@ Você pode clicar no link Visualizar para ver suas alterações.
 <h3> 🛠 Pilha de tecnologia </h3>
 
 - 💻 & nbsp; Linux | Kubernetes | Openshift | Docker | Git | Python |
--💻 & nbsp; ShellScript | PowerShell | Zabbix | AppDynamics | Dynatrace
+- 💻 & nbsp; ShellScript | PowerShell | Zabbix | AppDynamics | Dynatrace
 - 💻 & nbsp; Splunk | ElasticStack | Prometheus | Grafana | Nuvem
 
 <br/>
