@@ -29,6 +29,7 @@
 
 <h3> 🛠 Pilha de tecnologia </h3>
 
+- 💻  MultiCloud - AWS | Azure | GCP | OCI |
 - 💻  Linux | Kubernetes | Openshift | Docker | Git | Python |
 - 💻  ShellScript | PowerShell | Zabbix | AppDynamics | Dynatrace
 - 💻  Splunk | ElasticStack | Prometheus | Grafana | Nuvem
