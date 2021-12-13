@@ -1,6 +1,6 @@
 - 👋 Olá
 - 👀 Estou interessado em aprender tecnologias DevOps
-- 🌱 Atualmente estou aprendendo Postman,AWS,kafka,Ansible e Terraform
+- 🌱 Atualmente estou aprendendo Multicloud, AppDynamics, Zabbix6, Mainframe, Python, CI/CD, Especialização em Kubernetes
 - 💞️ Estou procurando colaborar em Automatizações e Pipeline
 - 📫 Como chegar até mim guigobrito@hotmail.com / guigobrito94@gmail.com
 
