@@ -23,7 +23,7 @@
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
-- 🤔  Explorando novas tecnologias e desenvolvendo soluções de software e hacks rápidos.
+- 🤔  Explorando novas tecnologias e desenvolvendo soluções de software.
 - 💼  Atuando como Engenheiro de TI no banco Itáu.
 - 🌱  Aprender mais sobre arquitetura em nuvem, IaC, PaaS, SaaS e Observabilidade.
 
