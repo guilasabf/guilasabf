@@ -1,45 +1,50 @@
-- 👋 Olá
-- 👀 Estou interessado em aprender tecnologias DevOps
-- 🌱 Atualmente estou aprendendo Multicloud, AppDynamics, Zabbix6, Mainframe, Python, CI/CD, Especialização em Kubernetes
-- 💞️ Estou procurando colaborar em Automatizações e Pipeline
-- 📫 Como chegar até mim guigobrito@hotmail.com / guigobrito94@gmail.com
+# Guilherme Ferreira
 
-  ##
+**Tech Lead · Especialista Cloud & SRE · FinOps · Observabilidade · DBRE**
+São Paulo, Brasil · mais de 12 anos em TI, em ambientes críticos do setor financeiro
 
-<div>
-  <a href="https://github.com/guilasabf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilasabf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+Ajudo empresas a rodar a nuvem com confiabilidade e custo sob controle. Sou o arquiteto por trás da **[Observei](https://observei.vercel.app)**, consultoria de TI em Cloud, SRE, FinOps e DBRE.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
-  
-  ##
- 
+## O que eu faço
 
-<h2> Sou Guilherme Ferreira. </h2>
+- **Arquitetura e migração cloud:** AWS, Azure, Google Cloud e OCI, com migrações no modelo AWS MAP
+- **FinOps:** tagging, showback, rightsizing, Savings Plans e Reserved Instances
+- **SRE e observabilidade:** SLOs, Prometheus, Grafana, OpenTelemetry, Datadog, Dynatrace e Zabbix
+- **DBRE:** replicação, failover, DR com RPO/RTO, SQL tuning e upgrades de versão com rollback
+- **Upgrades de suporte estendido da AWS:** [MySQL 8.0, PostgreSQL, ElastiCache, OpenSearch, EKS e Amazon Linux 2](https://observei.vercel.app/#upgrades)
 
-<h3> 👨🏻‍💻 Sobre mim </h3>
+## Alguns resultados
 
-- 🤔  Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼  Atuando como Engenheiro de TI no banco Itáu.
-- 🌱  Aprender mais sobre arquitetura em nuvem, IaC, PaaS, SaaS e Observabilidade.
+- Mais de **20% de economia** em nuvem liderando FinOps em ambiente multi-cloud (AWS + Azure) no Itaú Unibanco
+- **−30% de incidentes críticos** e **−25% de MTTR** como SRE, com observabilidade fullstack e automação de resposta a incidentes
+- Modernização da arquitetura de monitoramento Zabbix de um banco digital (C6 Bank)
 
-<h3> 🛠 Pilha de tecnologia </h3>
+## Certificações
 
-- 💻  MultiCloud - AWS | Azure | GCP | OCI |
-- 💻  Linux | Kubernetes | Openshift | Docker | Git | Python |
-- 💻  ShellScript | PowerShell | Zabbix | AppDynamics | Dynatrace
-- 💻  Splunk | ElasticStack | Prometheus | Grafana | Nuvem
+8x AWS (incluindo Solutions Architect Professional, DevOps Engineer Professional e Advanced Networking Specialty) · Microsoft Azure Administrator (AZ-104) · Google Cloud Professional Cloud Architect · HashiCorp Terraform Associate · Zabbix ZCS e ZCP · 3x Oracle Cloud Infrastructure
 
-<br/>
+## Stack
 
+`AWS` `Azure` `GCP` `OCI` `Kubernetes` `OpenShift` `Terraform` `Ansible` `Docker` `GitLab CI` `Prometheus` `Grafana` `OpenTelemetry` `Datadog` `Zabbix` `Splunk` `Elastic` `PostgreSQL` `MySQL` `MongoDB` `DynamoDB` `Python` `Bash` `Linux`
 
-<h3> 🤝🏻 Conecte-se comigo </h3>
+## Contato
 
-  
-<div> 
-  <a href = "mailto:guigobrito94@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-b-337837146/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+- 🌐 Site: [observei.vercel.app](https://observei.vercel.app)
+- 💼 LinkedIn: [in/guilhermeferreira-aws-sre](https://www.linkedin.com/in/guilhermeferreira-aws-sre/)
+- 🎓 Cursos: [perfil de instrutor na Udemy](https://www.udemy.com/user/guilherme-de-brito-ferreira-3/)
+
+<details>
+<summary>Outros projetos: sites de serviços residenciais em São Paulo (gbf)</summary>
+
+- [Eletricista](https://gbfeletricista.vercel.app)
+- [Marido de aluguel](https://gbfma.vercel.app)
+- [Conserto de geladeiras](https://gbfgeladeiras.vercel.app)
+- [Conserto de ventiladores](https://gbfventiladores.vercel.app)
+- [Conserto de videogames](https://gbfgames.vercel.app)
+- [Conserto de celulares](https://gbfcelulares.vercel.app)
+- [Gesseiro](https://gbfgesseiro.vercel.app)
+- [Criação de sites WordPress](https://gbfwordpress.vercel.app)
+- [Conserto de TVs](https://gbftvs.vercel.app)
+- [Pinturas](https://gbfpinturas.vercel.app)
+
+</details>
